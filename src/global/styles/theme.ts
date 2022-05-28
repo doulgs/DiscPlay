@@ -5,6 +5,7 @@ export const theme = {
     secondary100: "#131313",
     secondary90: "#131313",
     secondary80: "#131313",
+    secondary85: " #131313",
     secondary70: "#582A96",
     secondary60: "#582A96",
     secondary50: "#582A96",
